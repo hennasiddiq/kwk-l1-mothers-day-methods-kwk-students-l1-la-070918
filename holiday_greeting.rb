@@ -2,4 +2,4 @@ def fourth_july (name = "Friend")
   puts "Happy Fourth of July, #{name}"
   
 end
-fourth_july("Beyonce! - From Jay-z")
+holiday_greeting("Beyonce", "Jay-Z", "Fourth of July") 
