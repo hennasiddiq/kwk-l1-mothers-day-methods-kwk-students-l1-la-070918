@@ -1,2 +1,2 @@
 def fourth_july
-  puts 
+  puts "Happy Fourth of July, #{name}"
