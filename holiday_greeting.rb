@@ -1,4 +1,4 @@
-def holiday_greeting (name = "Friend")
+def holiday_greeting (name = "Friend", "Beyonce", "July"
   puts "Happy Fourth of July, #{name}"
   
 end
